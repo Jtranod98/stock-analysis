@@ -14,7 +14,7 @@ Using images and examples of your code, compare the stock performance between 20
 
 ### Analysis of stock performance 2018
 
-[VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
+[VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
 Most stocks in 2018 are in negative territory, except two.  
 
