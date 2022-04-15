@@ -14,15 +14,19 @@ Using images and examples of your code, compare the stock performance between 20
 
 ### Analysis of stock performance 2018
 
-[VBA_Challenge_2018.png](VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
+
 
 Most stocks in 2018 are in negative territory, except two.  
 
 ### Analysis of stock performance 2017
 
+![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
+
 Most stocks in 2017 are in positive territory, except one
 
-![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
+
+
 
 ### Execution times of the original script and the refactored script.
 
