@@ -12,12 +12,12 @@ Make the code more efficient by refactoring Module 2 solution code to do fewer s
 ## Results: 
 
 ### Analysis of 2018 stock performance 
-The stock performance in 2018 are mostly in negative territory, denoted as Red, except two. 
+The stock performance in 2018 are mostly in negative territory, denoted in Red, except two. 
 
 ![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
 ### Analysis of 2017 stock performance
-The stock performance in 2017 are mostly in positive territory, denoted as green, except one
+The stock performance in 2017 are mostly in positive territory, denoted in green, except one
 
 ![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
@@ -40,5 +40,5 @@ In the above photos, the run time of the refactored script were 0.10 seconds for
 
    The advantage of the original VBA script is that it was simple, the thought process was easy to follow. But, the disadvantage of it was that it takes longer to perform a task and time is money to a business.
 
-   The advantage of the refactored script was that it takes much less time to run a task.  The disadvantage is that it is more complicated.  Therefore, it required a person with higher skill level to understand and to code the task.
+   The advantage of the refactored script iss that it takes much less time to run a task.  However, the disadvantage is that it is more complicated.  Therefore, it required a person with higher skill level to understand and to code the task.
  
